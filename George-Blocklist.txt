@@ -1,0 +1,11 @@
+# Title: George-Blocklist
+#
+#
+# Date: 10 October 2022 
+# Number of unique domains: 
+#
+
+# ===============================================================
+
+
+0.0.0.0 www.bestprice.gr
