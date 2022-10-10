@@ -2,10 +2,9 @@
 #
 #
 # Date: 10 October 2022 
-# Number of unique domains: 
+# Number of unique domains:1
 #
 
 # ===============================================================
-
 
 0.0.0.0 www.bestprice.gr
