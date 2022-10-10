@@ -8,3 +8,4 @@
 # George List
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 www.bestprice.gr
+0.0.0.0 promos.stoiximan.gr
