@@ -7,12 +7,4 @@
 # George List
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 www.bestprice.gr
-0.0.0.0 promos.stoiximan.gr
-0.0.0.0 trc.taboola.com
-0.0.0.0 phaistos-ssp.adman.gr
-0.0.0.0 talos.adman.gr
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 gazzetta.adman.gr	
-0.0.0.0 imstore.bet365affiliates.com	
-0.0.0.0 bet365.gr
-0.0.0.0 sports.bwin.gr
+
