@@ -4,7 +4,6 @@
 # Date: 10 October 2022 
 # Number of unique domains:3
 #
-
 # George List
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 www.bestprice.gr
