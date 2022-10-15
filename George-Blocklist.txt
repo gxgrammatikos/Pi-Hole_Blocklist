@@ -16,3 +16,4 @@
 0.0.0.0 imstore.bet365affiliates.com	
 0.0.0.0 bet365.gr
 0.0.0.0 sports.bwin.gr
+0.0.0.0 track.adform.net
