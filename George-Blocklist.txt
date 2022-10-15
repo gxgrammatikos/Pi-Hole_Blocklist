@@ -13,3 +13,4 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 phaistos-ssp.adman.gr
 0.0.0.0 talos.adman.gr
+0.0.0.0 pagead2.googlesyndication.com
