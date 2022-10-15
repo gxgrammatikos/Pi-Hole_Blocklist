@@ -7,15 +7,15 @@
 # George List
 # ------------------------------------[FILTERS]-------------------------------------
 
-0.0.0.0 promos.stoiximan.gr
-0.0.0.0 trc.taboola.com
-0.0.0.0 phaistos-ssp.adman.gr
-0.0.0.0 talos.adman.gr
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 gazzetta.adman.gr	
-0.0.0.0 imstore.bet365affiliates.com	
-0.0.0.0 bet365.gr
-0.0.0.0 sports.bwin.gr
-0.0.0.0 track.adform.net
-0.0.0.0 m.addthis.com
+promos.stoiximan.gr
+trc.taboola.com
+phaistos-ssp.adman.gr
+talos.adman.gr
+pagead2.googlesyndication.com
+gazzetta.adman.gr	
+imstore.bet365affiliates.com	
+bet365.gr
+sports.bwin.gr
+track.adform.net
+m.addthis.com
 
