@@ -18,4 +18,5 @@ bet365.gr
 sports.bwin.gr
 track.adform.net
 m.addthis.com
+viva.gr
 
