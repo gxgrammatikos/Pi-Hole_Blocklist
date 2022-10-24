@@ -20,3 +20,11 @@ track.adform.net
 m.addthis.com
 viva.gr
 www.bestprice.gr
+google-analytics.com
+www.google-analytics.com
+googleadservices.com
+www.googleadservices.com
+alb.reddit.com
+www.google-analytics.com
+www.googleadservices.com
+adservice.google.com
