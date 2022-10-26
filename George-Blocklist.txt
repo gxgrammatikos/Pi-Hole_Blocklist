@@ -28,3 +28,5 @@ alb.reddit.com
 www.google-analytics.com
 www.googleadservices.com
 adservice.google.com
+www.kiwi.com
+www.esky.gr
